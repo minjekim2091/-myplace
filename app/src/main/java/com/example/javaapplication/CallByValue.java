@@ -12,6 +12,5 @@ public class CallByValue {
         int b = 20;
 
         System.out.println("swap() 호출전: a= " + a + ",b= " + b);
-        swap(a, b);
     }
 }
